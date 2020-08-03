@@ -1,3 +1,3 @@
 Use with NodeJS to build your own Ravencoin pool to be used after the kawpow fork. Specific instructions will be added later.
 
-repleace jobManager.js with lib/jobManager.js
+Fixed version working with cli getkawpowhash 
